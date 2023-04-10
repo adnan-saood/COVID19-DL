@@ -1,4 +1,7 @@
 # COVID-19 Semantic Segmentation.
+
+Publication here: https://bmcmedimaging.biomedcentral.com/articles/10.1186/s12880-020-00529-5#rightslink
+
 ## Background
 Currently, there is an urgent need for efficient tools to assess in the diagnosis of COVID-19 patients. In this paper, we present feasible solutions for detecting and labeling infected tissues on CT lung images of such patients. Two structurally-different deep learning techniques, SegNet and UNET, are investigated for semantically segmenting infected tissue regions in CT lung images. 
 ## Methods 
